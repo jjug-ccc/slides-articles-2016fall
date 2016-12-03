@@ -5,16 +5,16 @@
 ## 発表資料
 
 ### 10:00-10:50
-- [実録Blue-Green Deployment導入記](http://www.slideshare.net/setoazusa/jjug-ccc-bluegreendeployment)
-- [Prepare for Java 9](http://www.slideshare.net/YujiKubota/java9-69782018)
+
+- E-1 [Prepare for Java 9に備えよう](http://www.slideshare.net/YujiKubota/java9-69782018) yuji kubota
+- GH-1 [実録Blue-Green Deployment導入記](http://www.slideshare.net/setoazusa/jjug-ccc-bluegreendeployment) 大中浩行
 
 ### 11:00-11:50
-- [Event Driven MicroServices with Spring Cloud Stream](https://www.slideshare.net/makingx/event-driven-microservices-with-spring-cloud-stream-jjugccc-ccca3)
 
 ### 13:30-14:20
 
-- [10年運用している画像サービスでのJavaの活用と今後の展望](https://speakerdeck.com/nmorioka/10nian-yun-yong-siteiru-hua-xiang-sabisudefalsejavafalsehuo-yong-to-jin-hou-falsezhan-wang)
-
+- AB-3 [Event Driven MicroServices with Spring Cloud Stream](https://www.slideshare.net/makingx/event-driven-microservices-with-spring-cloud-stream-jjugccc-ccca3) 槙 俊明 (Pivotalジャパン株式会社)
+- E-3 [10年運用している画像サービスでのJavaの活用と今後の展望](https://speakerdeck.com/nmorioka/10nian-yun-yong-siteiru-hua-xiang-sabisudefalsejavafalsehuo-yong-to-jin-hou-falsezhan-wang) 盛岡尚記(フリュー株式会社)
 
 ### 14:30-15:20
 
