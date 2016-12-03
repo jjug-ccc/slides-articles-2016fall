@@ -48,6 +48,7 @@
 ### 17:00-17:20
 
 - CD-6 [Selenideを試行錯誤しながら実践するブラウザ自動テスト](http://backpaper0.github.io/ghosts/try-selenide/index.html#1) うらがみ
+- L-8 [React meets Nashorn](https://speakerdeck.com/matsumana/react-meets-nashorn-jjug-ccc-2016-fall) matsumana
 
 ### 18:30-19:20
 
