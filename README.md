@@ -5,6 +5,7 @@
 ## 発表資料
 
 ### 10:00-10:50
+- [実録Blue-Green Deployment導入記](http://www.slideshare.net/setoazusa/jjug-ccc-bluegreendeployment)
 
 ### 11:00-11:50
 
