@@ -10,6 +10,9 @@
 
 ### 13:30-14:20
 
+- [10年運用している画像サービスでのJavaの活用と今後の展望](https://speakerdeck.com/nmorioka/10nian-yun-yong-siteiru-hua-xiang-sabisudefalsejavafalsehuo-yong-to-jin-hou-falsezhan-wang)
+
+
 ### 14:30-15:20
 
 ### 16:00-16:50
