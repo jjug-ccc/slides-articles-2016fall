@@ -14,7 +14,7 @@
 ### 11:00-11:50
 
 - a-2
-- E-2
+- E-2 [世界は四角ではない〜JavaFXで地図 を描く](http://www.slideshare.net/torutk/java-fx7) 高橋徹
 - F-2
 - GH-2 [SIerもはじめる わたしたちのDevOps ](http://www.slideshare.net/syobochim/sier-devops-jjugccc-69780604) しょぼちむ / 阿佐志保
 
@@ -56,6 +56,7 @@
 
 - AB-7 [Payara Micro の設計と実装](http://www.slideshare.net/khasunuma/payara-microinternals) 蓮沼賢志(日本GlassFishユーザー 会)
 - GH-7 [全文検索システムFessを用いた検索システム構築入門](http://www.slideshare.net/shinsuke/fess-69788304) 菅谷信介
+- L-9 [俺のコードがどこで使われているのか わからない問題 - あるいはマイナー OSSの生存戦略](http://www.slideshare.net/nabedge/oss-69784858) 渡辺祐
 
 ### 19:30-21:30 (LT)
 
