@@ -45,6 +45,8 @@
 
 ### 17:00-17:20
 
+- CD-6 [Selenideを試行錯誤しながら実践するブラウザ自動テスト](http://backpaper0.github.io/ghosts/try-selenide/index.html#1) うらがみ
+
 ### 18:30-19:20
 
 ### 19:30-21:30 (LT)
