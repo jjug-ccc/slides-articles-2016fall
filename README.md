@@ -6,6 +6,7 @@
 
 ### 10:00-10:50
 - [実録Blue-Green Deployment導入記](http://www.slideshare.net/setoazusa/jjug-ccc-bluegreendeployment)
+- [Prepare for Java 9](http://www.slideshare.net/YujiKubota/java9-69782018)
 
 ### 11:00-11:50
 
