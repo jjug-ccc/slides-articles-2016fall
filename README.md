@@ -6,8 +6,10 @@
 
 ### 10:00-10:50
 - [実録Blue-Green Deployment導入記](http://www.slideshare.net/setoazusa/jjug-ccc-bluegreendeployment)
+- [Prepare for Java 9](http://www.slideshare.net/YujiKubota/java9-69782018)
 
 ### 11:00-11:50
+- [Event Driven MicroServices with Spring Cloud Stream](https://www.slideshare.net/makingx/event-driven-microservices-with-spring-cloud-stream-jjugccc-ccca3)
 
 ### 13:30-14:20
 
