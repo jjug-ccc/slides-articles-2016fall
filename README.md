@@ -7,7 +7,7 @@
 ### 10:00-10:50
 
 - a-1
-- E-1 [Prepare for Java 9に備えよう](http://www.slideshare.net/YujiKubota/java9-69782018) yuji kubota
+- E-1 [Prepare for Java 9に備えよう](http://www.slideshare.net/YujiKubota/java9-69782018) KUBOTA Yuji
 - F-1
 - GH-1 [実録Blue-Green Deployment導入記](http://www.slideshare.net/setoazusa/jjug-ccc-bluegreendeployment) 大中浩行
 
