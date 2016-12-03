@@ -43,6 +43,8 @@
 
 ### 16:00-16:50
 
+- I-2 [WildFly Swarm ハンズオン](https://emag.gitbooks.io/wildfly-swarm-tour/content/) 田邊 義真
+
 ### 17:00-17:20
 
 - CD-6 [Selenideを試行錯誤しながら実践するブラウザ自動テスト](http://backpaper0.github.io/ghosts/try-selenide/index.html#1) うらがみ
