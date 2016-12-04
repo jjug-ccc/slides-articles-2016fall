@@ -48,6 +48,7 @@
 
 ### 17:00-17:20
 
+- AB-6 [JPA と DDD の関係で僕が思っていること](http://qiita.com/opengl-8080/items/944a6383f81dd3406486) opengl-8080
 - CD-6 [Selenideを試行錯誤しながら実践するブラウザ自動テスト](http://backpaper0.github.io/ghosts/try-selenide/index.html#1) うらがみ
 - F-6 [JVM言語とJava、切っても切れないそ の関係](http://www.slideshare.net/yyyank/jvmjava-69784006) @yy_yank
 - G-6 [Spring Cloudアプリケーションの開発にDockerを活用し、Kubernetes上にデプロイするまで](https://speakerdeck.com/muraken720/spring-cloudapurikesiyonfalsekai-fa-nidockerwohuo-yong-si-kubernetesshang-nidepuroisurumade)
