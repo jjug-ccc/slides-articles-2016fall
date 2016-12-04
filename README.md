@@ -76,3 +76,5 @@
 - [勉強会行ってみた「JJUG CCC 2016 Fall」#jjug_ccc](https://kazuhito-m.github.io/study-meeting-repo/2016/12/04/jjug-ccc-fall)
 - [JJUG CCC 2016 Fall ( #jjug_ccc ) - セッション資料の一覧へのリンク](http://d.hatena.ne.jp/chiheisen/20161203/1480761244)
 - [「JJUG CCC 2016 Fall」に行った](http://qiita.com/y_q1m/items/5ad5ae663363314fcb91)
+- [#jjug_ccc DDDとMicroservicesについて喋ってきましたー(∩´∀｀)∩](http://bufferings.hatenablog.com/entry/2016/12/04/135752)
+
