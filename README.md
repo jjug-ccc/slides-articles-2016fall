@@ -44,6 +44,7 @@
 
 - E-5 [社内の開発改善からOSS公開へ: DBFlute likeなライブラリの開発をし たお話](http://slides.com/nashcft/jjug_ccc_2016_fall#/) 長堀翔太(株式会社U-NEXT)
 - I-2 [WildFly Swarm ハンズオン](https://emag.gitbooks.io/wildfly-swarm-tour/content/) 田邊 義真
+- L-5 [JavaFX アプリケーションを素敵に着飾ってみる](https://speakerdeck.com/toastkidjp/jjug-ccc-2016-fall-number-ccc-l5) トースト小僧
 
 ### 17:00-17:20
 
@@ -61,3 +62,13 @@
 ### 19:30-21:30 (LT)
 
 ## ブログ記事
+- [2016/12/3 JJUG CCC 2016 fall 参加メモ](http://qiita.com/khwada/items/daa86af9f4e8416134a7)
+- [JJUG CCC 2016 fall 参加報告](http://suzaku-tec.hatenadiary.jp/entry/2016/12/03/235055)
+- [JJUG_CCC 2016 Fallに参加しました！ #jjug_ccc](http://mrstar-logs.hatenablog.com/entry/2016/12/03/233556)
+- [JJUG CCC 2016 Fallに参加してきました！ #jjug_ccc](http://kikutaro777.hatenablog.com/entry/2016/12/04/010543)
+- [JJUG CCC 2016 Fallに参加しました #jjug_ccc #ccc_l6 #ccc_cd7](http://samuraism.jp/diary/2016/12/04/1480779780000.html)
+- [Java勉強会に行ってきた #JJUG_CCC](http://blog.shuh.net/2016/12/jjug-ccc-2016-fall/)
+- [JJUG CCC 2016 Fall に参加してきた](http://tenten0213.hatenablog.com/entry/2016/12/04/013457)
+- [勉強会行ってみた「JJUG CCC 2016 Fall」#jjug_ccc](https://kazuhito-m.github.io/study-meeting-repo/2016/12/04/jjug-ccc-fall)
+- [JJUG CCC 2016 Fall ( #jjug_ccc ) - セッション資料の一覧へのリンク](http://d.hatena.ne.jp/chiheisen/20161203/1480761244)
+- [「JJUG CCC 2016 Fall」に行った](http://qiita.com/y_q1m/items/5ad5ae663363314fcb91)
