@@ -62,6 +62,10 @@
 
 ### 19:30-21:30 (LT)
 
+- [Challenge Java EE !いうブログタイトルが少し 重たくなってきた2016年](https://speakerdeck.com/kikutaro/challenge-java-ee-toiuburogutaitorugashao-si-zhong-takunatutekita2016nian) kikutaro
+- [悪魔のようなJavaコードと戦った話](http://qiita.com/ubansi/items/05c97500854d2f60a63a) ubansi
+- [JVM言語を使ってみようの歌](http://www.slideshare.net/YujiSoftware/jvm-69789550) YujiSoftware
+
 ## ブログ記事
 - [2016/12/3 JJUG CCC 2016 fall 参加メモ](http://qiita.com/khwada/items/daa86af9f4e8416134a7)
 - [JJUG CCC 2016 fall 参加報告](http://suzaku-tec.hatenadiary.jp/entry/2016/12/03/235055)
@@ -73,3 +77,5 @@
 - [勉強会行ってみた「JJUG CCC 2016 Fall」#jjug_ccc](https://kazuhito-m.github.io/study-meeting-repo/2016/12/04/jjug-ccc-fall)
 - [JJUG CCC 2016 Fall ( #jjug_ccc ) - セッション資料の一覧へのリンク](http://d.hatena.ne.jp/chiheisen/20161203/1480761244)
 - [「JJUG CCC 2016 Fall」に行った](http://qiita.com/y_q1m/items/5ad5ae663363314fcb91)
+- [#jjug_ccc DDDとMicroservicesについて喋ってきましたー(∩´∀｀)∩](http://bufferings.hatenablog.com/entry/2016/12/04/135752)
+
