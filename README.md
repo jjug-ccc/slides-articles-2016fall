@@ -52,6 +52,7 @@
 - CD-6 [Selenideを試行錯誤しながら実践するブラウザ自動テスト](http://backpaper0.github.io/ghosts/try-selenide/index.html#1) うらがみ
 - F-6 [JVM言語とJava、切っても切れないそ の関係](http://www.slideshare.net/yyyank/jvmjava-69784006) @yy_yank
 - G-6 [Spring Cloudアプリケーションの開発にDockerを活用し、Kubernetes上にデプロイするまで](https://speakerdeck.com/muraken720/spring-cloudapurikesiyonfalsekai-fa-nidockerwohuo-yong-si-kubernetesshang-nidepuroisurumade)
+- L-7 [超先取りShenandoahGC](http://www.slideshare.net/yodajp/shenandoahgc-69803455) 小田洋平
 - L-8 [React meets Nashorn](https://speakerdeck.com/matsumana/react-meets-nashorn-jjug-ccc-2016-fall) matsumana
 
 ### 18:30-19:20
