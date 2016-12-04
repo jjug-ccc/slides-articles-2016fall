@@ -26,7 +26,7 @@
 - F-3
 - GH-3
 - I-1
-- L-1
+- L-1 [Spring超入門-Springを１年半使ってみて-](http://www.slideshare.net/RyosukeUchitate/springspring1) 内立良介
 - L-2 [Java + spring-boot で書く! LINE BOT ライブコーディング。](https://docs.google.com/presentation/d/1ShXyY4oNBsOIhgbcigheOeMi_mOBRcL0OKQ7l8QwKxQ/edit#slide=id.p) Tokuhiro Matsuno
 - M-1
 
