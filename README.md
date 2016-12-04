@@ -8,15 +8,15 @@
 
 - a-1 [Be a great engineer!](https://speakerdeck.com/shintanimoto/ccc2016fall-be-a-great-engineer-number-jjug-ccc-number-ccc-a1) 谷本 心
 - E-1 [Prepare for Java 9: Java 9 に備えよう](http://www.slideshare.net/YujiKubota/java9-69782018) KUBOTA Yuji (NTT)
-- F-1 [新人研修や本では教えてくれない Java!〜フレームワークの仕組みと実 務必須ツールを学ぼう〜](https://speakerdeck.com/masatoshitada/wan-quan-ban-xin-ren-yan-xiu-yaben-dehajiao-etekurenaijava) 多田真敏
+- F-1 [新人研修や本では教えてくれない Java!〜フレームワークの仕組みと実 務必須ツールを学ぼう〜](https://speakerdeck.com/masatoshitada/wan-quan-ban-xin-ren-yan-xiu-yaben-dehajiao-etekurenaijava) 多田真敏
 - GH-1 [実録Blue-Green Deployment導入記](http://www.slideshare.net/setoazusa/jjug-ccc-bluegreendeployment) 大中浩行
 
 ### 11:00-11:50
 
 - a-2 [Java EE, What's Next](http://www.slideshare.net/itakashi/java-ee-whats-next-by-anil-gaur) Anil Gaur(Oracle Corporation)
-- E-2 [世界は四角ではない〜JavaFXで地図 を描く](http://www.slideshare.net/torutk/java-fx7) 高橋徹
-- F-2 [SpringはどうやってDIしているのか](https://speakerdeck.com/bati11/springhadouyatutedisiteirufalseka-number-jjug-ccc) かりや
-- GH-2 [SIerもはじめる わたしたちのDevOps ](http://www.slideshare.net/syobochim/sier-devops-jjugccc-69780604) しょぼちむ / 阿佐志保
+- E-2 [世界は四角ではない〜JavaFXで地図 を描く](http://www.slideshare.net/torutk/java-fx7) 高橋徹
+- F-2 [SpringはどうやってDIしているのか](https://speakerdeck.com/bati11/springhadouyatutedisiteirufalseka-number-jjug-ccc) かりや
+- GH-2 [SIerもはじめる わたしたちのDevOps ](http://www.slideshare.net/syobochim/sier-devops-jjugccc-69780604) しょぼちむ / 阿佐志保
 
 ### 13:30-14:20
 
@@ -27,14 +27,14 @@
 - GH-3
 - I-1
 - L-1 [Spring超入門-Springを１年半使ってみて-](http://www.slideshare.net/RyosukeUchitate/springspring1) 内立良介
-- L-2 [Java + spring-boot で書く! LINE BOT ライブコーディング。](https://docs.google.com/presentation/d/1ShXyY4oNBsOIhgbcigheOeMi_mOBRcL0OKQ7l8QwKxQ/edit#slide=id.p) Tokuhiro Matsuno
+- L-2 [Java + spring-boot で書く! LINE BOT ライブコーディング。](https://docs.google.com/presentation/d/1ShXyY4oNBsOIhgbcigheOeMi_mOBRcL0OKQ7l8QwKxQ/edit#slide=id.p) Tokuhiro Matsuno
 - M-1
 
 
 ### 14:30-15:20
 
 - AB-4
-- CD-4 [GitBucketを支えるJava技術とグローバルで使われるOSSの作り方](http://www.slideshare.net/takezoe/gitbucketjavaoss) 竹添直樹
+- CD-4 [GitBucketを支えるJava技術とグローバルで使われるOSSの作り方](http://www.slideshare.net/takezoe/gitbucketjavaoss) 竹添直樹
 - E-4
 - F-4 [どうしようJUnit 5](https://speakerdeck.com/irof/dousiyoujunit5) irof
 - GH-4
@@ -42,7 +42,7 @@
 - L-4 [JMH超入門](https://docs.com/deaf_tadashi/1630/jmh) すずきただし
 ### 16:00-16:50
 
-- E-5 [社内の開発改善からOSS公開へ: DBFlute likeなライブラリの開発をし たお話](http://slides.com/nashcft/jjug_ccc_2016_fall#/) 長堀翔太(株式会社U-NEXT)
+- E-5 [社内の開発改善からOSS公開へ: DBFlute likeなライブラリの開発をし たお話](http://slides.com/nashcft/jjug_ccc_2016_fall#/) 長堀翔太(株式会社U-NEXT)
 - I-2 [WildFly Swarm ハンズオン](https://emag.gitbooks.io/wildfly-swarm-tour/content/) 田邊 義真
 - L-5 [JavaFX アプリケーションを素敵に着飾ってみる](https://speakerdeck.com/toastkidjp/jjug-ccc-2016-fall-number-ccc-l5) トースト小僧
 
@@ -57,9 +57,9 @@
 
 ### 18:30-19:20
 
-- AB-7 [Payara Micro の設計と実装](http://www.slideshare.net/khasunuma/payara-microinternals) 蓮沼賢志(日本GlassFishユーザー 会)
+- AB-7 [Payara Micro の設計と実装](http://www.slideshare.net/khasunuma/payara-microinternals) 蓮沼賢志(日本GlassFishユーザー 会)
 - GH-7 [全文検索システムFessを用いた検索システム構築入門](http://www.slideshare.net/shinsuke/fess-69788304) 菅谷信介
-- L-9 [俺のコードがどこで使われているのか わからない問題 - あるいはマイナー OSSの生存戦略](http://www.slideshare.net/nabedge/oss-69784858) 渡辺祐
+- L-9 [俺のコードがどこで使われているのか わからない問題 - あるいはマイナー OSSの生存戦略](http://www.slideshare.net/nabedge/oss-69784858) 渡辺祐
 
 ### 19:30-21:30 (LT)
 
@@ -79,4 +79,4 @@
 - [JJUG CCC 2016 Fall ( #jjug_ccc ) - セッション資料の一覧へのリンク](http://d.hatena.ne.jp/chiheisen/20161203/1480761244)
 - [「JJUG CCC 2016 Fall」に行った](http://qiita.com/y_q1m/items/5ad5ae663363314fcb91)
 - [#jjug_ccc DDDとMicroservicesについて喋ってきましたー(∩´∀｀)∩](http://bufferings.hatenablog.com/entry/2016/12/04/135752)
-
+- [JJUG CCC 2016 Fallに参加してきました #jjug_ccc](http://www.grimrose.org/blog/2016/12/jjug-ccc-2016/)
