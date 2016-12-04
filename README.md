@@ -13,7 +13,7 @@
 
 ### 11:00-11:50
 
-- a-2
+- a-2 [Java EE, What's Next](http://www.slideshare.net/itakashi/java-ee-whats-next-by-anil-gaur) Anil Gaur(Oracle Corporation)
 - E-2 [世界は四角ではない〜JavaFXで地図 を描く](http://www.slideshare.net/torutk/java-fx7) 高橋徹
 - F-2 [SpringはどうやってDIしているのか](https://speakerdeck.com/bati11/springhadouyatutedisiteirufalseka-number-jjug-ccc) かりや
 - GH-2 [SIerもはじめる わたしたちのDevOps ](http://www.slideshare.net/syobochim/sier-devops-jjugccc-69780604) しょぼちむ / 阿佐志保
