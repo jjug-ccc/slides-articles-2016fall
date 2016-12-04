@@ -39,7 +39,7 @@
 - F-4 [どうしようJUnit 5](https://speakerdeck.com/irof/dousiyoujunit5) irof
 - GH-4
 - L-3
-- L-4 [JMH超入門](https://docs.google.com/presentation/d/e/2PACX-1vQHxpH6FkS9rC3cgpTUPNb2kP1I1YaQ1v0Bb_YWdtV8xtgE0dDKJzB3cL0VgTYR1C9YMyDE2xaGxmbb/pub?slide=id.p) すずきただし
+- L-4 [JMH超入門](https://docs.com/deaf_tadashi/1630/jmh) すずきただし
 ### 16:00-16:50
 
 - E-5 [社内の開発改善からOSS公開へ: DBFlute likeなライブラリの開発をし たお話](http://slides.com/nashcft/jjug_ccc_2016_fall#/) 長堀翔太(株式会社U-NEXT)
