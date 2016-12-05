@@ -80,3 +80,4 @@
 - [「JJUG CCC 2016 Fall」に行った](http://qiita.com/y_q1m/items/5ad5ae663363314fcb91)
 - [#jjug_ccc DDDとMicroservicesについて喋ってきましたー(∩´∀｀)∩](http://bufferings.hatenablog.com/entry/2016/12/04/135752)
 - [JJUG CCC 2016 Fallに参加してきました #jjug_ccc](http://www.grimrose.org/blog/2016/12/jjug-ccc-2016/)
+- [｢JJUG CCC 2016 Fall｣へ行った その1](http://ttomioka.hatenablog.com/entry/2016/12/05/200946)
