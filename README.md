@@ -66,6 +66,7 @@
 - [Challenge Java EE !いうブログタイトルが少し 重たくなってきた2016年](https://speakerdeck.com/kikutaro/challenge-java-ee-toiuburogutaitorugashao-si-zhong-takunatutekita2016nian) kikutaro
 - [悪魔のようなJavaコードと戦った話](http://qiita.com/ubansi/items/05c97500854d2f60a63a) ubansi
 - [JVM言語を使ってみようの歌](http://www.slideshare.net/YujiSoftware/jvm-69789550) YujiSoftware
+- [JNA高速化](http://slides.com/sakamoto_desu/jna) ＠sakamoto_desu
 
 ## ブログ記事
 - [2016/12/3 JJUG CCC 2016 fall 参加メモ](http://qiita.com/khwada/items/daa86af9f4e8416134a7)
