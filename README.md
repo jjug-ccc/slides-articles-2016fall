@@ -23,7 +23,7 @@
 - AB-3 [Event Driven MicroServices with Spring Cloud Stream](https://www.slideshare.net/makingx/event-driven-microservices-with-spring-cloud-stream-jjugccc-ccca3) 槙 俊明 (Pivotalジャパン株式会社)
 - CD-3
 - E-3 [10年運用している画像サービスでのJavaの活用と今後の展望](https://speakerdeck.com/nmorioka/10nian-yun-yong-siteiru-hua-xiang-sabisudefalsejavafalsehuo-yong-to-jin-hou-falsezhan-wang) 盛岡尚記(フリュー株式会社)
-- F-3
+- F-3 [メンバーのスキルアップ、どうしてる？ －Java 100本ノックで新加入メンバーを鍛えてみた－](http://www.slideshare.net/JSUXDesign/java-100) 福嶋航(株式会社ジャストシステム)
 - GH-3
 - I-1
 - L-1 [Spring超入門-Springを１年半使ってみて-](http://www.slideshare.net/RyosukeUchitate/springspring1) 内立良介
