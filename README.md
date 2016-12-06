@@ -41,7 +41,7 @@
 - L-3
 - L-4 [JMH超入門](https://docs.com/deaf_tadashi/1630/jmh) すずきただし
 ### 16:00-16:50
-
+- AB-5 [ドメイン駆動設計とscala 〜既存プロジェクトへの適用〜](http://www.slideshare.net/fumiyasusumiya/jjug-ccc-2016-fall-scala) 角谷文康
 - E-5 [社内の開発改善からOSS公開へ: DBFlute likeなライブラリの開発をし たお話](http://slides.com/nashcft/jjug_ccc_2016_fall#/) 長堀翔太(株式会社U-NEXT)
 - I-2 [WildFly Swarm ハンズオン](https://emag.gitbooks.io/wildfly-swarm-tour/content/) 田邊 義真
 - L-5 [JavaFX アプリケーションを素敵に着飾ってみる](https://speakerdeck.com/toastkidjp/jjug-ccc-2016-fall-number-ccc-l5) トースト小僧
