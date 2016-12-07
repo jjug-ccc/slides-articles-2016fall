@@ -39,7 +39,7 @@
 - E-4
 - F-4 [どうしようJUnit 5](https://speakerdeck.com/irof/dousiyoujunit5) irof
 - GH-4
-- L-3
+- L-3 [JVM上で動くプログラミング言語「Pyrite」の設計と実装](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxtaXlha29zaXN8Z3g6NmQ5MDEzNjljNDNlMWZlMA) 宮腰 重彰
 - L-4 [JMH超入門](https://docs.com/deaf_tadashi/1630/jmh) すずきただし
 
 ### 16:00-16:50
@@ -64,6 +64,7 @@
 - AB-7 [Payara Micro の設計と実装](http://www.slideshare.net/khasunuma/payara-microinternals) 蓮沼賢志(日本GlassFishユーザー 会)
 - GH-7 [全文検索システムFessを用いた検索システム構築入門](http://www.slideshare.net/shinsuke/fess-69788304) 菅谷信介
 - L-9 [俺のコードがどこで使われているのか わからない問題 - あるいはマイナー OSSの生存戦略](http://www.slideshare.net/nabedge/oss-69784858) 渡辺祐
+- I-3 [バイトコードが君のトモダチになりたがっている](https://www.slideshare.net/jyukutyo/jjug-ccc-2016-fall-69797411) 阪田浩一(フリュー株式会社)
 
 ### 19:30-21:30 (LT)
 
