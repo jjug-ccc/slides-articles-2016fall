@@ -89,3 +89,4 @@
 - [｢JJUG CCC 2016 Fall｣へ行った その1](http://ttomioka.hatenablog.com/entry/2016/12/05/200946)
 - [「JJUG CCC 2016 Fall（#jjug_ccc）」に参加してきました](http://chicken-yuta.com/article/programming/1139)
 - [周囲で起こっていることをどう吸収し進んでいくか #JJUG_CCC 2016 Fall 参加れぽ](http://ryoichi0102.hatenablog.com/entry/2016/12/06/072438)
+- [JJUG CCC 2016 FallでBlue-Green Deploymentの導入について発表しました #jjug_ccc - ふぃーるどのーつ](http://blog.fieldnotes.jp/entry/jjug-ccc-blue-green-deployment)
