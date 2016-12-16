@@ -38,7 +38,7 @@
 - CD-4 [GitBucketを支えるJava技術とグローバルで使われるOSSの作り方](http://www.slideshare.net/takezoe/gitbucketjavaoss) 竹添直樹
 - E-4
 - F-4 [どうしようJUnit 5](https://speakerdeck.com/irof/dousiyoujunit5) irof
-- GH-4
+- GH-4 [マチコ&河村の怒り新党](https://speakerdeck.com/ihcomega56/matiko-and-he-cun-falsenu-rixin-dang) 川添真智子 / 河村嘉之 / 横田紋奈
 - L-3 [JVM上で動くプログラミング言語「Pyrite」の設計と実装](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxtaXlha29zaXN8Z3g6NmQ5MDEzNjljNDNlMWZlMA) 宮腰 重彰
 - L-4 [JMH超入門](https://docs.com/deaf_tadashi/1630/jmh) すずきただし
 
