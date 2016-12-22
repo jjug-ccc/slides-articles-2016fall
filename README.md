@@ -58,7 +58,7 @@
 - G-6 [Spring Cloudアプリケーションの開発にDockerを活用し、Kubernetes上にデプロイするまで](https://speakerdeck.com/muraken720/spring-cloudapurikesiyonfalsekai-fa-nidockerwohuo-yong-si-kubernetesshang-nidepuroisurumade)
 - L-7 [超先取りShenandoahGC](http://www.slideshare.net/yodajp/shenandoahgc-69803455) 小田洋平
 - L-8 [React meets Nashorn](https://speakerdeck.com/matsumana/react-meets-nashorn-jjug-ccc-2016-fall) matsumana
-- M-3 [Java でつくる低レイテンシ実装の技巧 〜GCはさだめ、さだめは死。〜](http://www.slideshare.net/nappa_zzz/java-70326737)
+- M-3 [Java でつくる低レイテンシ実装の技巧 〜GCはさだめ、さだめは死。〜](http://www.slideshare.net/nappa_zzz/java-70326737) 山崎良祐
 
 ### 18:30-19:20
 
