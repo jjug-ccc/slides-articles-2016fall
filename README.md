@@ -50,7 +50,7 @@
 - I-2 [WildFly Swarm ハンズオン](https://emag.gitbooks.io/wildfly-swarm-tour/content/) 田邊 義真
 - L-5 [JavaFX アプリケーションを素敵に着飾ってみる](https://speakerdeck.com/toastkidjp/jjug-ccc-2016-fall-number-ccc-l5) トースト小僧
 
-### 17:00-17:20
+### 17:00-17:50
 
 - AB-6 [JPA と DDD の関係で僕が思っていること](http://qiita.com/opengl-8080/items/944a6383f81dd3406486) opengl-8080
 - CD-6 [Selenideを試行錯誤しながら実践するブラウザ自動テスト](http://backpaper0.github.io/ghosts/try-selenide/index.html#1) うらがみ
@@ -58,6 +58,7 @@
 - G-6 [Spring Cloudアプリケーションの開発にDockerを活用し、Kubernetes上にデプロイするまで](https://speakerdeck.com/muraken720/spring-cloudapurikesiyonfalsekai-fa-nidockerwohuo-yong-si-kubernetesshang-nidepuroisurumade)
 - L-7 [超先取りShenandoahGC](http://www.slideshare.net/yodajp/shenandoahgc-69803455) 小田洋平
 - L-8 [React meets Nashorn](https://speakerdeck.com/matsumana/react-meets-nashorn-jjug-ccc-2016-fall) matsumana
+- M-3 [Java でつくる低レイテンシ実装の技巧 〜GCはさだめ、さだめは死。〜](http://www.slideshare.net/nappa_zzz/java-70326737)
 
 ### 18:30-19:20
 
